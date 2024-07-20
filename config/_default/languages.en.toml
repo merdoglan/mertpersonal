@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Mert Kafalı"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Mert Kafalı Personal Site"
+dateFormat = "2 January 2006"
+
+[author]
+name = "Mert Kafalı"
+image = "your_photo.png"
+headline = "Director, Colorist, Content Creator"
+bio = "Merdoglan"
+links = [
+    { email = "maitto:merdoglan@outlook.com" },
+    { instagram = "https://instagram.com@hasmerdoglan" },
+    { linkedin = "https://linkedin.com/in/mertkafali" },
+    { x-twitter = "https://x.com/lykomedos" },
+    { youtube = "https://youtube.com/@merdoglan" },
+]
